@@ -23,7 +23,6 @@ Applied Mathematics @ **UC Berkeley** (May 2028). I build software that answers 
 - Event studies and abnormal-return analysis, hypothesis testing, regression, statistical risk modeling
 - Backtesting discipline: point-in-time replay, purged blocks, deflated Sharpe, cost sensitivity
 - Akuna Capital Options 101: options pricing, Greeks, volatility, market-making fundamentals
-- AMATYC Student Mathematics League, 4th place (Oct 2025)
 
 ## Tools
 
